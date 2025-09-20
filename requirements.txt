@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+requests
+pydantic
+chromadb
+SQLAlchemy
+alembic
+langchain>=0.3.0
+pymupdf
+sentence-transformers
